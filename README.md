@@ -24,6 +24,8 @@ There were 2,344,224 rides for the Month of August. There are also more Subscrib
 Please Follow the link to my dashboard.
 [link to dashboard](https://public.tableau.com/app/profile/kree.hembrick/viz/Bikesharing_16500565387620/TheOVerallPicture?publish=yes)
 
+Please Follow the link to my story.
+[Link to story](https://public.tableau.com/app/profile/kree.hembrick/viz/Bikesharingstory_16500629492230/Story1?publish=yes)
 ## Summary
 The analyzed data shows great promise and very high volume of people using citibike in NYC. The data was only analyzed for the month of August. Most of the users are male with a great number of woman and descent amount of unknown users. Bikesharing is an eco friendly way of using transportation and is available to subscribers and non-subscribers 24/7.
 
