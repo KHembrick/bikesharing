@@ -18,8 +18,10 @@
 ![ok](https://user-images.githubusercontent.com/96032255/163635730-37294aa5-2d5a-42ff-b64d-947db70c5efd.PNG)
 
 There were 2,344,224 rides for the Month of August. There are also more Subscribers than Customers. As shown in the graphs below. 
+
 ![add](https://user-images.githubusercontent.com/96032255/163649095-7ba2f3b8-4cb2-41cf-b30b-d16c463946c8.PNG)
 
+Please Follow the link to my dashboard.
 [link to dashboard](https://public.tableau.com/app/profile/kree.hembrick/viz/Bikesharing_16500565387620/TheOVerallPicture?publish=yes)
 
 ## Summary
